@@ -1,0 +1,7 @@
+D:\repo\Umbopo\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+D:\repo\Umbopo\CodeTest\CodeTest\bin\Debug\CodeTest.exe
+D:\repo\Umbopo\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+D:\repo\Umbopo\CodeTest\CodeTest\obj\Debug\CodeTest.csproj.AssemblyReference.cache
+D:\repo\Umbopo\CodeTest\CodeTest\obj\Debug\CodeTest.csproj.CoreCompileInputs.cache
+D:\repo\Umbopo\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+D:\repo\Umbopo\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
