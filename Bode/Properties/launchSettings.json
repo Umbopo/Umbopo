@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Bode": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\geRepos\\Bode"
+    }
+  }
+}
