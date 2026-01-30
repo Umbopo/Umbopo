@@ -1,0 +1,11 @@
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\bin\Debug\Calander2026.exe.config
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\bin\Debug\Calander2026.exe
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\bin\Debug\Calander2026.pdb
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.csproj.AssemblyReference.cache
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.Properties.Resources.resources
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.csproj.GenerateResource.cache
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.csproj.CoreCompileInputs.cache
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.exe
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.pdb
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.exe.config
+D:\repo\Umbopo\MauiBode\Calander2026\Calander2026\obj\Debug\Calander2026.fScheduler.resources

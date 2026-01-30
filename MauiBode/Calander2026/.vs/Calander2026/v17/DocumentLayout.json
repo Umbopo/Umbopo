@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repo\\Umbopo\\MauiBode\\Calander2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0252720-B22C-4779-A747-FC9A1CB3B822}|Calander2026\\Calander2026.csproj|d:\\repo\\umbopo\\mauibode\\calander2026\\calander2026\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0252720-B22C-4779-A747-FC9A1CB3B822}|Calander2026\\Calander2026.csproj|solutionrelative:calander2026\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0252720-B22C-4779-A747-FC9A1CB3B822}|Calander2026\\Calander2026.csproj|D:\\repo\\Umbopo\\MauiBode\\Calander2026\\calander2026\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0252720-B22C-4779-A747-FC9A1CB3B822}|Calander2026\\Calander2026.csproj|solutionrelative:calander2026\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0252720-B22C-4779-A747-FC9A1CB3B822}|Calander2026\\Calander2026.csproj|D:\\repo\\Umbopo\\MauiBode\\Calander2026\\calander2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0252720-B22C-4779-A747-FC9A1CB3B822}|Calander2026\\Calander2026.csproj|solutionrelative:calander2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scheduler.cs",
+              "DocumentMoniker": "D:\\repo\\Umbopo\\MauiBode\\Calander2026\\Calander2026\\Scheduler.cs",
+              "RelativeDocumentMoniker": "Calander2026\\Scheduler.cs",
+              "ToolTip": "D:\\repo\\Umbopo\\MauiBode\\Calander2026\\Calander2026\\Scheduler.cs",
+              "RelativeToolTip": "Calander2026\\Scheduler.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAawKoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T11:37:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repo\\Umbopo\\MauiBode\\Calander2026\\Calander2026\\Program.cs",
+              "RelativeDocumentMoniker": "Calander2026\\Program.cs",
+              "ToolTip": "D:\\repo\\Umbopo\\MauiBode\\Calander2026\\Calander2026\\Program.cs",
+              "RelativeToolTip": "Calander2026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T11:41:51.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scheduler.cs [Design]",
+              "DocumentMoniker": "D:\\repo\\Umbopo\\MauiBode\\Calander2026\\Calander2026\\Scheduler.cs",
+              "RelativeDocumentMoniker": "Calander2026\\Scheduler.cs",
+              "ToolTip": "D:\\repo\\Umbopo\\MauiBode\\Calander2026\\Calander2026\\Scheduler.cs [Design]",
+              "RelativeToolTip": "Calander2026\\Scheduler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T11:36:48.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
