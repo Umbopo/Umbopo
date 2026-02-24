@@ -1,0 +1,10 @@
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\obj\Debug\IAMNOTGONE.csproj.AssemblyReference.cache
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\obj\Debug\IAMNOTGONE.Properties.Resources.resources
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\obj\Debug\IAMNOTGONE.csproj.GenerateResource.cache
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\obj\Debug\IAMNOTGONE.csproj.CoreCompileInputs.cache
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\bin\Debug\IAMNOTGONE.exe.config
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\bin\Debug\IAMNOTGONE.exe
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\bin\Debug\IAMNOTGONE.pdb
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\obj\Debug\IAMNOTGONE.exe
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\obj\Debug\IAMNOTGONE.pdb
+D:\repo\Umbopo\MauiBode\IAMNOTGONE\IAMNOTGONE\obj\Debug\IAMNOTGONE.exe.config
